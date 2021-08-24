@@ -1,0 +1,13 @@
+{
+  "accepts": ["id"],
+  "classes": ["Gene"],
+  "files" : {
+    "css" : "dist/style.css",
+    "js" : "dist/bundle.js"
+  },
+  "toolName" : {
+    "human" :"The Gene Expression Barcode",
+    "cljs" :"bluegenesBarcodeSummary"    
+  },
+  "version": 2
+}
