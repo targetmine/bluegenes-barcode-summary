@@ -1,10 +1,11 @@
 #  The Gene Expression Barcode
 
 The Gene Expression Barcode is a tool made for [BlueGenes](http://bluegenes.apps.intermine.org) following BlueGenes Tool API.
-Add more description of your tool here! :)
+This tool summarizes [The Gene Expression Barcode 3.0](https://pubmed.ncbi.nlm.nih.gov/21177656/) data integrated in TargetMine for the Gene class.
 
-## Licence
+## License
 
+The MIT License - see [LICENSE](LICENSE)
 
 ### To set up locally for development
 
